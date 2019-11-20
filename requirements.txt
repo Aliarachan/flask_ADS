@@ -4,3 +4,5 @@ Flask-Login
 WTForms
 Flask-PyMongo
 dnspython
+gunicorn
+
